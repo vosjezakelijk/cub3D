@@ -1,0 +1,12 @@
+R  1920 1080
+WE ./textures/106.png
+SO ./textures/106.png
+NO ./textures/106.png
+EA ./textures/105.png
+S ./textures/fair1.png
+C  0,108,108
+F  51,51,0
+
+111111111111
+12020020N021
+111111111111
